@@ -1,6 +1,7 @@
 {
-  "name": "Sahanawedsdeepak",
-  "version": "1.0.0",
+  "homepage": "sahanawedsdeepak.in",
+  "name": "sahanawedsdeepak",
+  "version": "1.0.1",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
