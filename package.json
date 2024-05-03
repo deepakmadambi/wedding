@@ -1,7 +1,7 @@
 {
   "name": "Mylove",
   "version": "0.1.0",
-  "homepage": "https://deepakmadambi.github.io/",
+  "homepage": "https://deepakmadambi.github.io/home",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
